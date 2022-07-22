@@ -5,13 +5,6 @@
     This is an HTML site w/ added CSS and JS that introduced me to these languages. Building this allowed me to practice hands on w/ these languages. This allows an interactive study guide that provides me the ability to practice utilizing the languages.
 
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 ## Installation
 
     NA
